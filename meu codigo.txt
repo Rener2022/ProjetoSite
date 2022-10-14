@@ -1,1 +1,3 @@
 Eu sou o Rener Miranda 
+
+mudando para ver as mudificaçoes basta git status
